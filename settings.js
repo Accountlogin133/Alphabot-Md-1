@@ -7,7 +7,7 @@ const {
 } = require(`./language`)
 
 //OpenAi || ChatGpt
-global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
+global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -47,8 +47,8 @@ global.myweb = "ngl.link/putra25018" //bebas asal jan hapus
 global.youtube = "https://www.youtube.com/@putrahaqimi1707" //bebas asal jan hapus
 global.myweb2 = "ngl.link/putra25018" //bebas
 global.email = "putrahaqimi223@gmail.com" //bebas
-global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Jakarta' //  timezone list : https://www.php.net/manual/en/timezones.php 
+global.region = "Malaysia" //bebas
+global.timezone = 'Asia/Kuala lumpur' //  timezone list : https://www.php.net/manual/en/timezones.php 
 global.premium = ['601121075279'] //premium user
 global.owner = ["601121075279", "601121075279"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "601121075279" // nomor wa kalian
