@@ -8,7 +8,7 @@ const {
 
 //OpenAi || ChatGpt
 global.OpenAIKey = "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" //login to https://beta.openai.com/ to get apikey
-cEtZQXLtuT3BlbkFJ7txs7yNo2Yk8xVvrHbK9
+
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
    alfa: 'https://api.zeeoneofc.my.id', //apabila link api eror, segera laporkan ke owner
